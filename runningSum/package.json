@@ -1,0 +1,16 @@
+{
+  "name": "runningsum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "runningSum.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
