@@ -1,5 +1,3 @@
-var assert = require('assert');
-const { expect } = require('chai');
 var chai = require('chai');
 const runningSum = require('./../runningSum')
 

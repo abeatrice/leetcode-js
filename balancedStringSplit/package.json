@@ -1,0 +1,19 @@
+{
+  "name": "balancedStringSplit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "balancedStringSplit.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.1",
+    "mocha": "^8.3.0"
+  }
+}
